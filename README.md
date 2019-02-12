@@ -20,6 +20,8 @@ Programs:
 - Blender
 - LibreOffice
 - Word/Excel/Acess
+- Gimp
+- AdobePremiere
 
 Operating Systems:
 - Windows 8.1 (desktop)
