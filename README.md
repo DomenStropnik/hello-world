@@ -19,9 +19,13 @@ After that I plan on going to FRI in Ljubljana.
 Programs:
 - Blender
 - LibreOffice
-- Word/Excel/Acess
+- Office 365(Word/Excel/Acess/Visio)
 - Gimp
+- Raptor
 - AdobePremiere
+- XAMMP
+- Unity
+- AppInventor
 
 Operating Systems:
 - Windows 8.1 (desktop)
@@ -33,6 +37,7 @@ Specs laptop:
 IDEs:
 - Atom (using it for html, css, c++ and python)
 - gVim (using it for c++ and python)
+- Arduino IO
 - NetBeans 8.2 (using it for html, css, php and java + swing)
 - Visual Studio (using it for c# and c++)
 - Visual Studio Code (using it for c# for Unity development)
