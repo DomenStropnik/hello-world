@@ -6,44 +6,40 @@ After that I plan on going to FRI in Ljubljana. <br/>
 I enjoy expanding my knowledge about computer science and coding, as well as trying out new stuff like video editing.
 
 <b>Languages:</b>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>C# and .NET</li>
-  <li>Visual Basic .NET</li>
-  <li>Java</li>
-  <li>Python
-  <li>SQL 
-    <ul>
-      <li>mySQL</li>
-      <li>SQLite</li>
-      <li>PostgreSQL</li>
-    </ul>
-  </i>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>PHP</li>
-</ul>
+- C
+- C++
+- C# and .NET
+- Visual Basic .NET
+- Java
+- Python
+- SQL (mySQL, SQLite, PostgreSQL)
+- HTML
+- CSS
+- PHP
 
 Programs:
 - Blender
 - LibreOffice
-- Office 365(Word/Excel/Acess/Visio)
+- Office 365 (Word/Excel/Acess/Visio)
 - Gimp
 - Raptor
 - AdobePremiere
 - XAMMP
 - Unity
-- AppInventor
+- AndroidStudio
 - OracleVM
-- WIX
-- PgADMIN
-- 
+- PgAadmin4
+- SQLStudio
+- Raptor
+- Toad Data Modeler
 
-Operating Systems:
-- Windows 8.1 (desktop)
-- Windows 10
-- Fedora 29
+OS Experience:
+- Windows 8.1 (on desktop)
+- Windows 10 (on laptop)
+- Fedora 28 (on laptop)
+- Windows XP and 7
+- Ubuntu and Kubuntu
+- FreeNas
 
 Specs laptop:
 
@@ -63,4 +59,3 @@ Work Experience:
 - Gorenje (IT)
 - EsoTech
 
-Current Repositories:
