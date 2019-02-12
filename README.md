@@ -1,5 +1,5 @@
 # hello-world
-Hello my name is Domen, I'm a 19 y/o student from Slovenia currently attending a 2 year faculty for Informatics.
+Hello my name is Domen, I'm a 19 y/o student from Slovenia currently attending a 2 year faculty for Informatics. <br/>
 I graduated from my high school Šolski Center Velenje (ŠCV) - Elektro in Računalniška šola (ERŠ) - Tehink Računlaništva (eng. Computer Technician). <br/>
 I'm currently attending ŠCV - Višja Strokovna Šola - Informatika (1st year). <br/>
 After that I plan on going to FRI in Ljubljana.
