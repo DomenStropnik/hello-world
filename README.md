@@ -1,8 +1,10 @@
 # hello-world
-Hello my name is Domen and I'm a 19 year old informatics student in Slovenia.
-I graduated from Šolski Center Velenje - Elektro in Računalniška šoa - program: Tehink Računlaništva (Computer Technician).
+Hello my name is Domen, I'm a 19 y/o student from Slovenia currently attending a 2 year faculty for Informatics.
+I graduated from my high school Šolski Center Velenje (ŠCV) - Elektro in Računalniška šola (ERŠ) - Tehink Računlaništva (eng. Computer Technician).
+I'm currently attending ŠCV - Višja Strokovna Šola - Informatika (1st year)
+After that I plan on going to FRI in Ljubljana.
 
-Languages:
+<b>Languages:</b>
 - C
 - C++
 - C# and .NET
