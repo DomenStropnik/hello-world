@@ -5,16 +5,27 @@ I'm currently attending ŠCV - Višja Strokovna Šola - Informatika (1st year). 
 After that I plan on going to FRI in Ljubljana.
 
 <b>Languages:</b>
-- C
-- C++
-- C# and .NET
-- Visual Basic .NET
-- Java
-- Python3
-- sql (mySQL, SQLite, PostgreSQL)
-- html5
-- css
-- php
+<ul>
+  <li>C</li>
+  <li>C++</li>
+  <li>C# and .NET</li>
+  <li>Visual Basic .NET</li>
+  <li>Java</li>
+  <li>Python
+    <ul>
+      <li>CPython</li>
+    </ul>
+  <li>SQL 
+    <ul>
+      <li>mySQL</li>
+      <li>SQLite</li>
+      <li>PostgreSQL</li>
+    </ul>
+  </i>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>PHP</li>
+</ul>
 
 Programs:
 - Blender
