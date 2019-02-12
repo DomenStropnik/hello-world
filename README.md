@@ -1,8 +1,9 @@
 # hello-world
-Hello my name is Domen, I'm a 19 y/o student from Slovenia currently attending a 2 year faculty for Informatics. <br/>
+My name is Domen, I'm a 19 y/o student from Slovenia currently attending a 2 year faculty for Informatics. <br/>
 I graduated from my high school Šolski Center Velenje (ŠCV) - Elektro in Računalniška šola (ERŠ) - Tehink Računlaništva (eng. Computer Technician). <br/>
 I'm currently attending ŠCV - Višja Strokovna Šola - Informatika (1st year). <br/>
-After that I plan on going to FRI in Ljubljana.
+After that I plan on going to FRI in Ljubljana. <br/>
+I enjoy expanding my knowledge about computer science and coding, as well as trying out new stuff like video editing.
 
 <b>Languages:</b>
 <ul>
@@ -12,9 +13,6 @@ After that I plan on going to FRI in Ljubljana.
   <li>Visual Basic .NET</li>
   <li>Java</li>
   <li>Python
-    <ul>
-      <li>CPython</li>
-    </ul>
   <li>SQL 
     <ul>
       <li>mySQL</li>
@@ -37,6 +35,10 @@ Programs:
 - XAMMP
 - Unity
 - AppInventor
+- OracleVM
+- WIX
+- PgADMIN
+- 
 
 Operating Systems:
 - Windows 8.1 (desktop)
