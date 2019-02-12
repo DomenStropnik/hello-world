@@ -46,4 +46,8 @@ IDEs:
 - python3.7 IDLE (for simple python scripts)
 - Notpad++ (for quick editing)
 
+Work Experience:
+- Gorenje (IT)
+- EsoTech
+
 Current Repositories:
