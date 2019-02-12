@@ -1,17 +1,30 @@
 # hello-world
 Hello my name is Domen and I'm a 19 year old informatics student in Slovenia.
+I graduated from Šolski Center Velenje - Elektro in Računalniška šoa - program: Tehink Računlaništva (Computer Technician).
 
 Languages:
 - C
-- C++ (main)
+- C++
 - C# and .NET
 - Visual Basic .NET
 - Java
 - Python3
-- sql
+- sql (mySQL, SQLite, PostgreSQL)
 - html5
 - css
 - php
+
+Programs:
+- Blender
+- LibreOffice
+- Word/Excel/Acess
+
+Operating Systems:
+- Windows 8.1 (desktop)
+- Windows 10
+- Fedora 29
+
+Specs laptop:
 
 IDEs:
 - Atom (using it for html, css, c++ and python)
